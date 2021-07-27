@@ -1,2 +1,2 @@
 # JavaBase
-Java语言
+Java语言基础
